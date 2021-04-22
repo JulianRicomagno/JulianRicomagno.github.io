@@ -1,0 +1,16 @@
+.descripcion-informacion {
+    display: flex;
+    align-items: baseline;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+/*.descripcion-informacion{display: flex;align-items: center;}*/
+.descripcion-informacion a{
+    color:white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.descripcion-informacion i{padding: 10px;}
