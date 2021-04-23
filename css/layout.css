@@ -14,3 +14,10 @@
     margin-left: 10px;
 }
 .descripcion-informacion i{padding: 10px;}
+
+.sectiontitle{display:block; max-width:55%; margin:0 auto 80px; text-align:center;}
+.sectiontitle *{margin:0;}
+#introblocks .sectiontitle{max-width:80%;}
+#introblocks > ul > li:last-child{margin-bottom:0;}
+
+.sectiontitle{max-width:none;}
